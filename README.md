@@ -55,7 +55,7 @@ The following are the key findings of the analysis:
 <img src="visualisations/Energy Consumption Rolling Average.jpg
 " alt="Energy Consumption Rolling Average" width="400">
 
-(visualisations/Box Plot YOY Change.jpg)
+![Box Plot YOY Change](visualisations/Box-Plot-YOY-Change.jpg)
 
 
 visualisations/Energy type Consumption.jpg
