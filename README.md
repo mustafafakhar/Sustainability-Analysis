@@ -40,16 +40,6 @@ The following are the key findings of the analysis:
 - There are a few outliers visible as black dots that fall outside the main pattern. For example, some data points are lower than the rest, while others are higher. The model's prediction line smooths over these anomalies, focusing on the underlying trend and seasonality. This is a common feature of Prophet, as it is designed to be robust to outliers.
 
 
-## Visualizations
-
-The following visualizations are key to understanding the project's results:
-
-- Monthly Energy Emissions (Stacked Bar Chart): This chart shows the total monthly emissions, broken down by energy source. It provides a clear view of the seasonal trends and the contribution of each energy type.
-
-- Emissions Forecast: This line plot displays the actual historical emissions alongside the forecasted emissions and their confidence intervals, demonstrating the model's predictive capability.
-
-- Prophet Components: These plots break down the forecast into its core components (trend, yearly seasonality, weekly seasonality), offering deeper insights into the underlying patterns of energy consumption.
-
 ## Tools and Libraries
 
 - Python
@@ -60,3 +50,13 @@ The following visualizations are key to understanding the project's results:
 
 - Prophet: A powerful time-series forecasting library developed by Meta.
 
+## Visualizations
+
+visualisations/Box Plot YOY Change.jpg
+visualisations/Energy Consumption Rolling Average.jpg
+visualisations/Energy type Consumption.jpg
+visualisations/Prophet Forecast.jpg
+visualisations/Yearly consumption by type.jpg
+visualisations/YoY Change.jpg
+visualisations/natural Gas Consumption.jpg
+visualisations/top 10 energy consumers.jpg
