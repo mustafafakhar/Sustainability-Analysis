@@ -8,13 +8,15 @@ This project performs a comprehensive data analysis of corporate energy consumpt
 
 The analysis utilizes a publicly available dataset on corporate energy consumption. The key variables include:
 
-- Date: The time of the recorded energy usage.
+- Date: The time of the recorded energy usage in months and years.
 
 - Energy Description: The type of energy consumed (e.g., Natural Gas, Electricity, District Energy).
 
 - Emissions(CO2e): The equivalent carbon dioxide emissions in tonnes.
 
-- Other relevant columns from your dataset (e.g., building names, usage metrics).
+- Total Consumption: The energy consumed by different facilities in kWh.
+
+- Energy Description: The type of energy being consumed. For the purpose of sustainability analysis, a lot of emphasis is laid upon natural gas and electricitiy.
 
 ## Methodology
 
