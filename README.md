@@ -26,6 +26,8 @@ The project follows a structured data analysis workflow:
 
 - Time-Series Forecasting: The Prophet forecasting model was used to predict future emissions. The model was trained on the historical data and configured to account for seasonality and holidays.
 
+- Use manual mathematical conversions to calculate emissions in CO2e.
+
 - Results & Visualizations: The final output includes a forecast of future emissions and a series of visualizations that tell the story of the data.
 
 ## Key Findings
