@@ -52,10 +52,12 @@ The following are the key findings of the analysis:
 
 ## Visualizations
 
-![Alt text](visualisations/Box Plot YOY Change.jpg)
+<img src="visualisations/Energy Consumption Rolling Average.jpg
+" alt="Energy Consumption Rolling Average" width="400">
+
+(visualisations/Box Plot YOY Change.jpg)
 
 
-visualisations/Energy Consumption Rolling Average.jpg
 visualisations/Energy type Consumption.jpg
 visualisations/Prophet Forecast.jpg
 visualisations/Yearly consumption by type.jpg
