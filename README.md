@@ -38,8 +38,6 @@ The following are the key findings of the analysis:
 - There are a few outliers visible as black dots that fall outside the main pattern. For example, some data points are lower than the rest, while others are higher. The model's prediction line smooths over these anomalies, focusing on the underlying trend and seasonality. This is a common feature of Prophet, as it is designed to be robust to outliers.
 
 
-State the outcome of your forecast, for example: The forecast predicts a gradual increase in emissions over the next 12-24 months unless new energy-saving measures are implemented.
-
 ## Visualizations
 
 The following visualizations are key to understanding the project's results:
