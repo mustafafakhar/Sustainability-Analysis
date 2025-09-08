@@ -52,8 +52,6 @@ The following are the key findings of the analysis:
 
 ## Visualizations
 
-visualisations/Energy Consumption Rolling Average.jpg
-
 ![Box Plot YOY Change](visualisations/Box-Plot-YOY-Change.jpg)
 ![Rolling Average](visualisations/Energy-Consumption-Rolling-Average.jpg)
 ![Consumption by Energy Types](visualisations/Energy-type-Consumption.jpg)
