@@ -53,6 +53,8 @@ The following are the key findings of the analysis:
 ## Visualizations
 
 ![Alt text](visualisations/Box Plot YOY Change.jpg)
+
+
 visualisations/Energy Consumption Rolling Average.jpg
 visualisations/Energy type Consumption.jpg
 visualisations/Prophet Forecast.jpg
