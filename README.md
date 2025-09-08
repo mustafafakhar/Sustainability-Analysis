@@ -52,15 +52,13 @@ The following are the key findings of the analysis:
 
 ## Visualizations
 
-<img src="visualisations/Energy Consumption Rolling Average.jpg
-" alt="Energy Consumption Rolling Average" width="400">
+visualisations/Energy Consumption Rolling Average.jpg
 
 ![Box Plot YOY Change](visualisations/Box-Plot-YOY-Change.jpg)
-
-
-visualisations/Energy type Consumption.jpg
-visualisations/Prophet Forecast.jpg
-visualisations/Yearly consumption by type.jpg
-visualisations/YoY Change.jpg
-visualisations/natural Gas Consumption.jpg
-visualisations/top 10 energy consumers.jpg
+![Rolling Average](visualisations/Energy-Consumption-Rolling-Average.jpg)
+![Consumption by Energy Types](visualisations/Energy-type-Consumption.jpg)
+![Forecast Model (Prophet)](visualisations/Prophet-Forecast.jpg)
+![Yearly Consumption By Energy Type](visualisations/Yearly-consumption-by-type.jpg)
+![Year-on-Year Change](visualisations/YoY-Change.jpg)
+![Natural Gas Consumption Trend](visualisations/natural-Gas-Consumption.jpg)
+![Top 10 Energy Consumers](visualisations/top-10-energy-consumers.jpg)
